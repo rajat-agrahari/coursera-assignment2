@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(117, 186, 243);
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+}
+.box{
+    background-color: rgb(212, 153, 86);
+    margin: 16px;
+    border: 2px solid black;
+    height: 400px;
+    width: 300px;
+}
+.block{
+    border: 2px  solid rgb(20, 17, 17);
+    width: 200px;
+background-color: rgb(172, 80, 80);  
+  float: right;
+  clear: left;
+    text-align: center;
+}
+p{
+    padding: 20px;
+}
